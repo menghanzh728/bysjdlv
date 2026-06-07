@@ -1,0 +1,207 @@
+精简文本数据_标准化 目录 清理报告 (仅删除展览/活动预告)
+------------------------------------------------------------
+来源文件 | ID | 活动标题
+------------------------------------------------------------
+File: merged_1.md | ID: ID_0005 | Title: “杨涵木刻展”即将开展！（2013.09.13—2013.09.22）
+File: merged_1.md | ID: ID_0017 | Title: “时·区 —— 当代高校青年教师的创作与探索”即将开展
+File: merged_1.md | ID: ID_0033 | Title: “弗朗西斯·培根中国首展”作品抢先看！（ 2013.12.02 15:00开幕）
+File: merged_2.md | ID: ID_0061 | Title: 【讲座预告】从色彩到渐变色环——论马奈
+File: merged_2.md | ID: ID_0062 | Title: 【公教预告】“非常体验”——丝网印刷工作坊
+File: merged_2.md | ID: ID_0067 | Title: 【讲座预告】身体博物馆：厉槟源谈自身创作
+File: merged_2.md | ID: ID_0074 | Title: 【公教预告】定格的记忆
+File: merged_2.md | ID: ID_0075 | Title: 【公教预告】微观的神奇世界
+File: merged_2.md | ID: ID_0081 | Title: 【公教预告】小小泥塑家
+File: merged_2.md | ID: ID_0086 | Title: 【展览预告】自然之名——风景画与山水画邀请展
+File: merged_2.md | ID: ID_0087 | Title: 【展览预告】零方案第九回  “寸光阴：倪有鱼个人项目”
+File: merged_2.md | ID: ID_0089 | Title: 【展览预告】零方案 第九回：“寸光阴”倪有鱼个人项目
+File: merged_2.md | ID: ID_0090 | Title: 【讲座预告】“自然之名——风景画与山水画邀请展”系列讲座
+File: merged_2.md | ID: ID_0091 | Title: 【公教预告】青年文化艺术沙龙：古着Party
+File: merged_2.md | ID: ID_0101 | Title: 【项目预告】可动恰恰：一点音乐和艺术的游戏！
+File: merged_2.md | ID: ID_0104 | Title: 【讲座预告】David Clark : 玩乐之地
+File: merged_2.md | ID: ID_0105 | Title: 【公教预告】赴一场名为“复古”的盛宴
+File: merged_2.md | ID: ID_0106 | Title: 【展览预告】年度大展：“L.S.洛瑞：艺术家·人民”
+File: merged_2.md | ID: ID_0107 | Title: 【展览预告】影像档案 第七回：《白沫》
+File: merged_2.md | ID: ID_0108 | Title: 【公教预告】“复调II”：奇遇泥塑
+File: merged_2.md | ID: ID_0110 | Title: 【展览预告】周京新画展
+File: merged_2.md | ID: ID_0115 | Title: 【展览预告】“或此或彼”——洪磊2014作品展
+File: merged_2.md | ID: ID_0116 | Title: 【展览预告】英国人民最喜爱的艺术家L.S.洛瑞中国首展即将亮相我馆
+File: merged_2.md | ID: ID_0117 | Title: 【展览预告】周京新画展
+File: merged_2.md | ID: ID_0121 | Title: 【展览预告】L.S.洛瑞：艺术家•人民
+File: merged_2.md | ID: ID_0122 | Title: 【展览预告】“或此或彼”——洪磊2014作品展
+File: merged_2.md | ID: ID_0125 | Title: 【公教预告】“复调II”：最后的狂欢
+File: merged_2.md | ID: ID_0128 | Title: 【学术预告】当代艺术家影像志《隐秘的线索：洪磊》明日首映
+File: merged_2.md | ID: ID_0131 | Title: 【讲座预告】Laurent-Max De Cock：心手之间
+File: merged_2.md | ID: ID_0136 | Title: 【展览预告】邱志杰：《南京长江大桥自杀干预计划（五）——齐物》
+File: merged_2.md | ID: ID_0137 | Title: 【展览预告】高山流水——中国山水画展
+File: merged_2.md | ID: ID_0139 | Title: 【展览预告】当代艺术家邱志杰携 《南京长江大桥自杀干预计划（五）——齐物》来宁！
+File: merged_2.md | ID: ID_0140 | Title: 【展览预告】“高山流水——中国山水画展” 策展人语
+File: merged_2.md | ID: ID_0144 | Title: 【展览预告】邱志杰谈“齐物”
+File: merged_2.md | ID: ID_0147 | Title: 【公教预告】非常体验：拼布工作坊
+File: merged_2.md | ID: ID_0150 | Title: 【讲座预告】洪磊：摄影的观看
+File: merged_2.md | ID: ID_0151 | Title: 【公教预告】喜物会
+File: merged_2.md | ID: ID_0162 | Title: 【公教预告】怡心工坊：“心灵SPA” 系列工作坊
+File: merged_2.md | ID: ID_0164 | Title: 【公教预告】遇见二次元：《我为歌狂》&amp;《十万个冷笑话》导演强强来袭
+File: merged_2.md | ID: ID_0165 | Title: 【开幕倒计时：1天】《L.S.洛瑞：艺术家·人民》作品抢先看
+File: merged_2.md | ID: ID_0187 | Title: 【公教预告】讲座：工业革命背景下的英国文学创作
+File: merged_2.md | ID: ID_0189 | Title: 【活动预告】当代剧场青年邀请周
+File: merged_2.md | ID: ID_0192 | Title: 【展览预告】AMNUA国际计划——外包|内销
+File: merged_2.md | ID: ID_0196 | Title: 【公教预告】少儿活动：“洛瑞”工厂环境大改造
+File: merged_2.md | ID: ID_0199 | Title: 【展览预告】2014中国实验艺术委员会年会暨南京艺术学院实验艺术展
+File: merged_2.md | ID: ID_0200 | Title: 【讲座预告】南京艺术学院实验艺术教学系列讲座
+File: merged_2.md | ID: ID_0203 | Title: 【展览预告】AMNUA外包内销：勇敢者的游戏？
+File: merged_2.md | ID: ID_0205 | Title: 【活动预告】中国独立动画电影论坛 · 南京站（2014.12.17—2014.12.18）
+File: merged_2.md | ID: ID_0206 | Title: 【讲座预告】《唐顿庄园》中的英国贵族史（2014.12.12）
+File: merged_2.md | ID: ID_0221 | Title: 【AMNUA预告】《朱伟2014—2015跨年展》平安夜南艺美术馆开幕
+File: merged_2.md | ID: ID_0226 | Title: 展览预告 #  郑闻致朱伟：《两个梦和一个艺术家的平安夜礼物》
+File: merged_2.md | ID: ID_0231 | Title: 【AMNUA公教】预告：拼布工作坊（2014.12.27）
+File: merged_2.md | ID: ID_0246 | Title: 【活动预告】漫画讲座：逆柱在南京
+File: merged_2.md | ID: ID_0247 | Title: 【讲座预告】陆蓉之：从伟大到萌——艺术的回响与未来
+File: merged_2.md | ID: ID_0268 | Title: 讲座预告 | 杜拉斯文本中的东方幽灵
+File: merged_2.md | ID: ID_0273 | Title: AMNUA讲座预告丨关注声音
+File: merged_2.md | ID: ID_0275 | Title: 展览预告丨孟语乐：关注色彩
+File: merged_2.md | ID: ID_0276 | Title: AMNUA公教预告丨缪斯女神的花园（需报名）
+File: merged_2.md | ID: ID_0277 | Title: AMNUA讲座预告丨孟语乐：关注色彩
+File: merged_2.md | ID: ID_0278 | Title: 讲座预告丨《格雷的五十度灰》的文学解码
+File: merged_2.md | ID: ID_0279 | Title: AMNUA展览预告丨乔-彼得·威金摄影展
+File: merged_2.md | ID: ID_0352 | Title: AMNUA毕业展丨南艺美术学院毕业展2015.05.159:50开幕，老师寄语+作品抢先看
+File: merged_2.md | ID: ID_0367 | Title: AMNUA毕业展丨服设毕业作品抢先看（一）
+File: merged_2.md | ID: ID_0369 | Title: AMNUA毕业展 | 服设毕业作品抢先看（二）+服装秀邀请函大放送
+File: merged_3.md | ID: ID_0407 | Title: 【展览预告】曾经沧海 ——南京艺术学院藏刘海粟作品陈列展
+File: merged_3.md | ID: ID_0427 | Title: 【曾经沧海】刘海粟陈列展油画作品抢先看
+File: merged_3.md | ID: ID_0444 | Title: 【展览预告】天空SKY——国际影像展（2014.05.06—2014.05.23）
+File: merged_4.md | ID: ID_0475 | Title: 【展览预告】游园——陆诚个展
+File: merged_4.md | ID: ID_0481 | Title: 【展览预告】水·墨·彼·此——两岸艺术家学术交流展
+File: merged_4.md | ID: ID_0490 | Title: 【倒计时7天】南京艺术学院设计学院2014届毕业设计展即将开幕
+File: merged_5.md | ID: ID_0542 | Title: 【复调II·中国艺术生态调查：北京站】纪录片预告 震撼出炉！
+File: merged_5.md | ID: ID_0545 | Title: 【展览预告】显影：国际手工印相摄影展（2014.09.05—2014.09.14）
+File: merged_5.md | ID: ID_0546 | Title: 【展览预告】零方案第八回：转塘拆迁区驻地创作计划
+File: merged_5.md | ID: ID_0561 | Title: 【本周展览】耿雪作品《海公子》明日首映
+File: merged_6.md | ID: ID_0581 | Title: 【讲座预告】从色彩到渐变色环——论马奈
+File: merged_6.md | ID: ID_0582 | Title: 【公教预告】“非常体验”——丝网印刷工作坊
+File: merged_6.md | ID: ID_0587 | Title: 【讲座预告】身体博物馆：厉槟源谈自身创作
+File: merged_6.md | ID: ID_0594 | Title: 【公教预告】定格的记忆
+File: merged_6.md | ID: ID_0595 | Title: 【公教预告】微观的神奇世界
+File: merged_6.md | ID: ID_0601 | Title: 【公教预告】小小泥塑家
+File: merged_6.md | ID: ID_0606 | Title: 【展览预告】自然之名——风景画与山水画邀请展
+File: merged_6.md | ID: ID_0607 | Title: 【展览预告】零方案第九回  “寸光阴：倪有鱼个人项目”
+File: merged_6.md | ID: ID_0609 | Title: 【展览预告】零方案 第九回：“寸光阴”倪有鱼个人项目
+File: merged_6.md | ID: ID_0610 | Title: 【讲座预告】“自然之名——风景画与山水画邀请展”系列讲座
+File: merged_6.md | ID: ID_0611 | Title: 【公教预告】青年文化艺术沙龙：古着Party
+File: merged_6.md | ID: ID_0621 | Title: 【项目预告】可动恰恰：一点音乐和艺术的游戏！
+File: merged_6.md | ID: ID_0624 | Title: 【讲座预告】David Clark : 玩乐之地
+File: merged_6.md | ID: ID_0625 | Title: 【公教预告】赴一场名为“复古”的盛宴
+File: merged_6.md | ID: ID_0626 | Title: 【展览预告】年度大展：“L.S.洛瑞：艺术家·人民”
+File: merged_6.md | ID: ID_0627 | Title: 【展览预告】影像档案 第七回：《白沫》
+File: merged_6.md | ID: ID_0628 | Title: 【公教预告】“复调II”：奇遇泥塑
+File: merged_6.md | ID: ID_0630 | Title: 【展览预告】周京新画展
+File: merged_6.md | ID: ID_0635 | Title: 【展览预告】“或此或彼”——洪磊2014作品展
+File: merged_6.md | ID: ID_0636 | Title: 【展览预告】英国人民最喜爱的艺术家L.S.洛瑞中国首展即将亮相我馆
+File: merged_6.md | ID: ID_0640 | Title: 【展览预告】L.S.洛瑞：艺术家•人民
+File: merged_7.md | ID: ID_0643 | Title: 【公教预告】“复调II”：最后的狂欢
+File: merged_7.md | ID: ID_0646 | Title: 【学术预告】当代艺术家影像志《隐秘的线索：洪磊》明日首映
+File: merged_7.md | ID: ID_0649 | Title: 【讲座预告】Laurent-Max De Cock：心手之间
+File: merged_7.md | ID: ID_0654 | Title: 【展览预告】邱志杰：《南京长江大桥自杀干预计划（五）——齐物》
+File: merged_7.md | ID: ID_0655 | Title: 【展览预告】高山流水——中国山水画展
+File: merged_7.md | ID: ID_0657 | Title: 【展览预告】当代艺术家邱志杰携 《南京长江大桥自杀干预计划（五）——齐物》来宁！
+File: merged_7.md | ID: ID_0658 | Title: 【展览预告】“高山流水——中国山水画展” 策展人语
+File: merged_7.md | ID: ID_0662 | Title: 【展览预告】邱志杰谈“齐物”
+File: merged_7.md | ID: ID_0665 | Title: 【公教预告】非常体验：拼布工作坊
+File: merged_7.md | ID: ID_0668 | Title: 【讲座预告】洪磊：摄影的观看
+File: merged_7.md | ID: ID_0669 | Title: 【公教预告】喜物会
+File: merged_7.md | ID: ID_0680 | Title: 【公教预告】怡心工坊：“心灵SPA” 系列工作坊
+File: merged_7.md | ID: ID_0682 | Title: 【公教预告】遇见二次元：《我为歌狂》&amp;《十万个冷笑话》导演强强来袭
+File: merged_7.md | ID: ID_0683 | Title: 【开幕倒计时：1天】《L.S.洛瑞：艺术家·人民》作品抢先看
+File: merged_7.md | ID: ID_0705 | Title: 【公教预告】讲座：工业革命背景下的英国文学创作
+File: merged_7.md | ID: ID_0707 | Title: 【活动预告】当代剧场青年邀请周
+File: merged_8.md | ID: ID_0710 | Title: 【展览预告】AMNUA国际计划——外包|内销
+File: merged_8.md | ID: ID_0714 | Title: 【公教预告】少儿活动：“洛瑞”工厂环境大改造
+File: merged_8.md | ID: ID_0717 | Title: 【展览预告】2014中国实验艺术委员会年会暨南京艺术学院实验艺术展
+File: merged_8.md | ID: ID_0718 | Title: 【讲座预告】南京艺术学院实验艺术教学系列讲座
+File: merged_8.md | ID: ID_0721 | Title: 【展览预告】AMNUA外包内销：勇敢者的游戏？
+File: merged_8.md | ID: ID_0723 | Title: 【活动预告】中国独立动画电影论坛 · 南京站（2014.12.17—2014.12.18）
+File: merged_8.md | ID: ID_0724 | Title: 【讲座预告】《唐顿庄园》中的英国贵族史（2014.12.12）
+File: merged_8.md | ID: ID_0738 | Title: 【AMNUA预告】《朱伟2014—2015跨年展》平安夜南艺美术馆开幕
+File: merged_8.md | ID: ID_0743 | Title: 展览预告 #  郑闻致朱伟：《两个梦和一个艺术家的平安夜礼物》
+File: merged_8.md | ID: ID_0748 | Title: 【AMNUA公教】预告：拼布工作坊（2014.12.27）
+File: merged_8.md | ID: ID_0762 | Title: 【活动预告】漫画讲座：逆柱在南京
+File: merged_8.md | ID: ID_0763 | Title: 【讲座预告】陆蓉之：从伟大到萌——艺术的回响与未来
+File: merged_9.md | ID: ID_0784 | Title: 讲座预告 | 杜拉斯文本中的东方幽灵
+File: merged_9.md | ID: ID_0789 | Title: AMNUA讲座预告丨关注声音
+File: merged_9.md | ID: ID_0791 | Title: 展览预告丨孟语乐：关注色彩
+File: merged_9.md | ID: ID_0792 | Title: AMNUA公教预告丨缪斯女神的花园（需报名）
+File: merged_9.md | ID: ID_0793 | Title: AMNUA讲座预告丨孟语乐：关注色彩
+File: merged_9.md | ID: ID_0794 | Title: 讲座预告丨《格雷的五十度灰》的文学解码
+File: merged_9.md | ID: ID_0795 | Title: AMNUA展览预告丨乔-彼得·威金摄影展
+File: merged_10.md | ID: ID_0865 | Title: AMNUA毕业展丨南艺美术学院毕业展2015.05.159:50开幕，老师寄语+作品抢先看
+File: merged_10.md | ID: ID_0879 | Title: AMNUA毕业展丨服设毕业作品抢先看（一）
+File: merged_10.md | ID: ID_0881 | Title: AMNUA毕业展 | 服设毕业作品抢先看（二）+服装秀邀请函大放送
+File: merged_11.md | ID: ID_0937 | Title: AMNUA毕业展丨南艺2015三院毕业联展盛大开幕，独家视频抢先看
+File: merged_12.md | ID: ID_0995 | Title: AMNUA书籍推荐丨纸的末日即将来临？
+File: merged_15.md | ID: ID_1155 | Title: 我们即将回归……
+File: merged_17.md | ID: ID_1303 | Title: 《肖恩·斯库利：抵抗与坚持》系列公教活动预告丨AMNUA讲座
+File: merged_17.md | ID: ID_1338 | Title: 倒计时24小时！南艺2016毕业展抢先看丨AMNUA毕业展
+File: merged_19.md | ID: ID_1452 | Title: 工作坊预告：苏上舟《庄生晓梦》丨AMNUA艺术家工作坊
+File: merged_19.md | ID: ID_1468 | Title: 讲座预告：学院计划论坛——洛杉矶导航丨AMNUA讲座
+File: merged_20.md | ID: ID_1516 | Title: 讲座预告：《英雄世界的阴影》丨AMNUA公教
+File: merged_20.md | ID: ID_1530 | Title: 2016国际创意设计城市「南京」论坛即将开幕
+File: merged_21.md | ID: ID_1576 | Title: 一周我馆公教预告丨AMNUA周一又来了
+File: merged_23.md | ID: ID_1664 | Title: 德意志制造联盟：  100年的德国建筑与设计展延伸活动预告 | AMNUA
+File: merged_23.md | ID: ID_1670 | Title: Made in Germany#系列活动预告丨AMNUA公教
+File: merged_23.md | ID: ID_1687 | Title: 一周公教活动预告 | AMNUA 公教
+File: merged_24.md | ID: ID_1750 | Title: 毕业展还有一天到达战场，我赌5毛你看不完全文 |520预告
+File: merged_25.md | ID: ID_1781 | Title: 实验/衍生:2017设计学院毕业展抢先看丨AMNUA毕业展
+File: merged_27.md | ID: ID_1915 | Title: 当代绘画创作与走向丨AMNUA讲座预告
+File: merged_27.md | ID: ID_1938 | Title: 南艺美术馆戏剧展演线上直播 精彩即将呈现！ | AMNUA LIVE
+File: merged_27.md | ID: ID_1943 | Title: AMNUA五周年丨江苏万名儿童美术创意双年展即将开幕
+File: merged_28.md | ID: ID_1981 | Title: 刷屏/劳作: 2018 AMNUA摄影展 2018.03.16学术活动预告
+File: merged_29.md | ID: ID_2043 | Title: 倒计时24小时！南艺2018毕业展抢先看丨AMNUA毕业展
+File: merged_29.md | ID: ID_2055 | Title: 重摄身体的界面-英国朋克后的电影和录像艺术放映谈话 |AMNUA 活动预告
+File: merged_29.md | ID: ID_2062 | Title: 预告｜AMNUA Kids亲子艺术系列课程第二季，抢鲜剧透！
+File: merged_30.md | ID: ID_2149 | Title: AMNUA“重整：德国艺术立场”2019大型群展 上海西岸艺术中心发布预告
+File: merged_35.md | ID: ID_2442 | Title: 2020.11.18放映 - “时距&amp;档案”: 第三届南京当代动画艺术文献展 丨AMNUA预告
+File: merged_35.md | ID: ID_2444 | Title: “回旋阵列”延伸活动：异位构成丨AMNUA预告
+File: merged_38.md | ID: ID_2618 | Title: 周一清 访谈预告丨AMNUA Interview
+File: merged_38.md | ID: ID_2620 | Title: 江宏伟 访谈预告丨AMNUA 绣羽衔花专题
+File: merged_39.md | ID: ID_2641 | Title: 策展人导览·预告｜AMNUA江南再造专题
+File: merged_40.md | ID: ID_2708 | Title: 即将启幕丨南京长江文化国际雕塑艺术邀请展
+File: merged_40.md | ID: ID_2724 | Title: 《企业家伦勃朗》正片即将上线！| AMNUA预告
+File: merged_40.md | ID: ID_2749 | Title: 《青年史》：一场跨文化、媒介和时空的现场对话丨AMNUA活动预告
+File: merged_42.md | ID: ID_2832 | Title: 导览预告 ：“生长”  张湘溪个人项目 | AMNUA线上导览
+File: merged_42.md | ID: ID_2839 | Title: 我是如何将生活设计成衣服 | AMNUA 时尚的力量＋线上讲座预告
+File: merged_42.md | ID: ID_2841 | Title: 预告 ：“现实主义滤镜” 开幕&amp;对谈 | AMNUA现场
+File: merged_42.md | ID: ID_2843 | Title: 预告 ：切入现实的探险 | AMNUA线上对谈
+File: merged_42.md | ID: ID_2845 | Title: 预告 ：隔“身”投送的现实 | AMNUA线上对谈
+File: merged_42.md | ID: ID_2847 | Title: 预告：作为时代滤镜的影像 | AMNUA线上对谈
+File: merged_42.md | ID: ID_2849 | Title: “数智·未来”——2023 智能空间计算与新设计美学论坛 | AMNUA活动预告
+File: merged_42.md | ID: ID_2853 | Title: 预告：如何通过艺术的方式探索内在潜意识 | AMNUA线上讲座
+File: merged_42.md | ID: ID_2854 | Title: 预告：留真背后的故事 | AMNUA线上讲座
+File: merged_42.md | ID: ID_2860 | Title: 预告：道路从这里绵延到远方 | AMNUA线上讲座
+File: merged_42.md | ID: ID_2868 | Title: 预告：元宇宙时代背景下文化产业投资新趋势探讨 | AMNUA线上讲座
+File: merged_42.md | ID: ID_2869 | Title: 导览预告：余音 | AMNUA线上导览
+File: merged_42.md | ID: ID_2871 | Title: 导览预告：分割黄金 ：冷广敏个人项目 | AMNUA线上导览
+File: merged_42.md | ID: ID_2873 | Title: 预告：我是如何将生活“痛点”设计成饰品 | AMNUA线上讲座
+File: merged_42.md | ID: ID_2876 | Title: 2023中德影像文化周 | AMNUA活动预告
+File: merged_42.md | ID: ID_2879 | Title: 预告：偶然的生机 ：策展的概念与临场 |AMNUA线上讲座
+File: merged_43.md | ID: ID_2885 | Title: 预告：现当代音乐中的图形化记谱法 | AMNUA线上讲座
+File: merged_43.md | ID: ID_2896 | Title: “异质共生”：第六届南京当代动画艺术文献展暨中国当代动画艺术资料馆＆斯图加特学术计划 | AMNUA活动预告
+File: merged_43.md | ID: ID_2908 | Title: 预告 ：从艺术出发的跨学科协作 | AMNUA线上讲座
+File: merged_43.md | ID: ID_2913 | Title: 预告 : 十年 | AMNUA线上导览
+File: merged_43.md | ID: ID_2921 | Title: 预告：元石计划 | AMNUA线上论坛
+File: merged_44.md | ID: ID_2954 | Title: 预告：无间：章燕紫个展 | AMNUA线上导览
+File: merged_44.md | ID: ID_2956 | Title: 预告：猴皮筏：林芮襄个展 | AMNUA线上导览
+File: merged_44.md | ID: ID_2970 | Title: 预告：高立峰：动画与绘画 | AMNUA开幕回顾
+File: merged_44.md | ID: ID_2975 | Title: 预告：沉默的形状——赵培智个展 | AMNUA线上导览
+File: merged_44.md | ID: ID_2986 | Title: 预告：绘画的表达与表达的艺术 | AMNUA线上讲座
+File: merged_44.md | ID: ID_2994 | Title: 预告：陆春涛：扉页 | AMNUA线上导览
+File: merged_45.md | ID: ID_3023 | Title: 再会长江：竹内亮导演交流会 | AMNUA活动预告
+File: merged_45.md | ID: ID_3066 | Title: 新展预告 |《文化和旅游部2024年全国美术馆馆藏精品展出季 ：东流万里长——馆藏江苏地域长江主题经典作品展》
+File: merged_45.md | ID: ID_3067 | Title: 预告| “ Visuality Daily·视觉性日常 ” 国际设计教育系列学术活动
+File: merged_46.md | ID: ID_3097 | Title: 卓翔导演影片放映交流会 | AMNUA活动预告
+File: merged_46.md | ID: ID_3131 | Title: 2024.12.08｜第七届“字酷”国际文字艺术设计学术系列活动即将启幕
+File: merged_47.md | ID: ID_3195 | Title: 倒计时！融合与对话：2024港澳视觉艺术双年展（南京站）即将启幕！
+File: merged_47.md | ID: ID_3200 | Title: 预告 ｜线上导览：融合与对话：2024港澳视觉艺术双年展（南京站）——香港单元：香港快拍·城市漫步
+File: merged_47.md | ID: ID_3201 | Title: 预告 ｜线上导览：融合与对话：2024港澳视觉艺术双年展（南京站）——澳门单元—即非澳门，是名澳门
+File: merged_48.md | ID: ID_3231 | Title: “施展：我们交换黑暗的词”展览开幕暨线上导览预告 ｜AMNUA现场
+File: merged_48.md | ID: ID_3254 | Title: 展览预告｜“共生体”  南京艺术学院数字艺术学院2025届研究生毕业展
+File: merged_49.md | ID: ID_3295 | Title: “时有微凉不是风”开幕暨线上对谈预告 ｜AMNUA现场
+File: merged_50.md | ID: ID_3360 | Title: 线上导览预告：万仞山——毛晓剑画展

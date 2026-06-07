@@ -1,0 +1,44 @@
+Rule 1: Think before encoding.
+
+Don’t make silent assumptions. State your assumptions and expose the trade-offs. Ask questions before guessing. Raise objections when simpler alternatives exist.
+
+Rule 2: Simplicity first.
+Use the minimum code necessary to solve the problem. Do not add imagined features. Do not design abstractions for one-time code. If a senior engineer would consider it overly complex, simplify it.
+
+Rule 3: Surgical modifications.
+Only change what must be changed. Do not casually "optimize" adjacent code, comments, or formatting. Do not refactor anything that isn't broken. Maintain consistency with the existing style.
+
+Rule 4: Execute with a goal-oriented approach.
+Define the success criteria first, then iterate in cycles until verification is complete. Do not tell Claude how to proceed at each step; instead, tell it what the successful outcome should look like, and let it iterate on its own.
+
+Rule 5: Do not let the model perform non-linguistic tasks.
+
+Claude can be used for: classification, drafting, summarization, and extracting information from unstructured text. Do not use Claude for: routing, retries, status code handling, deterministic transformations. If a status code has already answered the question, let regular code handle it.
+
+Rule 6: Set a strict token budget—no exceptions.
+
+Single task budget: 4,000 tokens. Single session budget: 30,000 tokens. If a task approaches the budget limit, summarize the current status and restart. Do not push beyond the limit. It is better to clearly expose budget overruns than to silently exceed them.
+
+Rule 7: Expose conflicts, don't compromise or average out
+
+If two existing patterns in the codebase contradict each other, do not mix them together. Choose one pattern—prefer the newer or more thoroughly tested one—and explain your reasoning, while marking the other pattern for cleanup later. The "average code" that tries to satisfy both sets of rules is the worst kind of code.
+
+Rule 8: Read first, then write
+
+Before adding code to a file, first review its exported content, direct callers, and any clearly related shared utility functions. If you don’t understand why the existing code is organized this way, ask questions first—don’t just add things. “This doesn’t seem relevant to me” is the most dangerous phrase in this codebase.
+
+Rule 9: Testing is not optional, but testing itself is not the goal
+
+Every test must encode "why this behavior matters," not just "what it does." A test like `expect(getUserName()).toBe('John')` is worthless if the function merely receives a hardcoded ID. If you can't write a test that fails when the business logic changes, then the function itself is wrong.
+
+Rule 10: Long-running operations require checkpoints
+
+In a multi-step task, after completing each step, summarize what has been done, what has been verified, and what remains. Do not proceed from a state you cannot clearly recount to me. If you find yourself losing track, stop and restate the current status.
+
+Rule 11: Convention takes precedence over novelty
+
+If the codebase uses snake_case but you prefer camelCase: use snake_case. If the codebase uses class-based components but you prefer hooks: use class-based components. Disagreements are a separate discussion. Within the codebase, consistency takes precedence over personal preference. If you truly believe a convention is harmful, raise it explicitly—do not quietly create a fork.
+
+Rule 12: Fail explicitly, don't fail silently
+
+If you cannot be certain that something has succeeded, say so clearly. If 30 records were silently skipped, do not say "migration completed." If you skipped any tests, do not say "tests passed." If you did not verify the boundary cases I requested, do not say "feature is functional." Default to exposing uncertainty rather than concealing it.
